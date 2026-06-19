@@ -116,11 +116,12 @@ const products = [
     { id: 85, name: "Glue Gun", price: 250, category: "Tools", description: "Hot glue gun with sticks", image: "image/gun.png.png" },
     { id: 85, name: "12v dc motor", price: 190, category: "Tools", description: "for mini drill", image: "image/bigmotor.webp" },
     { id: 115, name: "soldering iron", price: 350, category: "Tools", description: "60w soldering iron with adjustable temperature", image: "image/60w.jpg" },
-    { id: 85, name: "cutter", price: 150, category: "Tools", description: "wire cutter ", image: "image/cutter.jpg" },
-    { id: 85, name: "crew driver kit", price: 190, category: "Tools", description: "kit with multiple type crew drivers", image: "image/kit.jpg" },
+    { id: 116, name: "cutter", price: 150, category: "Tools", description: "wire cutter ", image: "image/cutter.jpg" },
+    { id: 117, name: "crew driver kit", price: 190, category: "Tools", description: "kit with multiple type crew drivers", image: "image/kit.jpg" },
     
     // ACTIVE COMPONENTS
     { id: 78, name: "Buzzer", price: 25, category: "active components", description: "Active piezo buzzer", image: "image/buzzer.png.png" },
+    { id: 118 , name: "LED", price: 3, category: "active components", description: "all color LED", image: "image/led.jpg" },
     { id: 93, name: "7805 Voltage Regulator", price: 20, category: "active components", description: "5V voltage regulator IC", image: "image/7805.png.png" },
     { id: 97, name: "IC 555 Timer", price: 60, category: "active components", description: "NE555 timer IC with base", image: "image/555.png.png" },
     { id: 103, name: "IRFZ44 MOSFET", price: 25, category: "active components", description: "N-channel power MOSFET", image: "images/mosfet.png.png" },
